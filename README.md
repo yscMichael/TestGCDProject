@@ -1,0 +1,2 @@
+# TestGCDProject
+测试gcd产生线程数量以及找到多线程最优解决方案
